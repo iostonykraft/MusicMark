@@ -1,0 +1,10 @@
+Package: com.tonykraft.musicmark
+Name: MusicMark
+Depends: mobilesubstrate
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Allows music app to remember your song’s position
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.musicmark.html
+Section: Tweaks
